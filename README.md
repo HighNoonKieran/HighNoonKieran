@@ -18,6 +18,11 @@
 - Email: kieran.bunse@edu.sait.ca
 - [LinkedIn](https://www.linkedin.com/in/kieran-bunse-93708530a/) 
 
+## **My skills** 
+- Drawing and design 
+- Creativity 
+- Processing and some Python 
+
 
 <!--
 **HighNoonKieran/HighNoonKieran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
